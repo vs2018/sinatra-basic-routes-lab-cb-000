@@ -7,7 +7,10 @@ class App < Sinatra::Base
   end
   
   get '/name' do
+    "My name is #{Vishal Sharma}"
   end
+  
+  
 
 
 end
